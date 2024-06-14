@@ -1,1 +1,8 @@
 nginx
+caddy:latest   
+netbirdio/dashboard:latest   
+netbirdio/management:latest   
+netbirdio/signal:latest   
+coturn/coturn:latest   
+ghcr.io/zitadel/zitadel:v2.31.3   
+cockroachdb/cockroach:v22.2.2
